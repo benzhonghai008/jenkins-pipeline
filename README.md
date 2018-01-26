@@ -1,2 +1,1 @@
-# jenkins-pipeline
-jenkinsfile for jenkins pipeline
+A simple Jenkinsfile demo.
