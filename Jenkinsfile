@@ -2,6 +2,10 @@ pipeline {
     agent {
         label 'salve'
     }
+    
+    environment {
+    gitbranch = 'release/pre'
+    }
 
     stages {
 
